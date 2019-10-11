@@ -1,4 +1,4 @@
-# The Battle of Neighborhoods Part I
+# The Battle of Neighborhoods
 
 ## IBM Capstone Project 
 
