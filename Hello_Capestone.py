@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-  Notebook is for IBM Data Science Capestone course
+  Notebook is for IBM Data Science Capstone Course
         
 # In[1]:import pandas as pd
 
